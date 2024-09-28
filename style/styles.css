@@ -21,6 +21,7 @@ header {
 }
 
 .logo {
+    margin-bottom:10px;
     font-size: 24px;
     font-weight: bold;
 }
